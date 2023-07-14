@@ -1,0 +1,11 @@
+{
+"status": {
+    "type": "enum:q,w,d|default:q",
+    "desc": "string",
+    "sdate": "date",
+    "stime": "time",
+  
+    "report_id": "foreign|constrained"
+  }
+
+}
